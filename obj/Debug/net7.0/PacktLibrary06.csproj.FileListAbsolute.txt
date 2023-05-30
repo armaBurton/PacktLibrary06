@@ -1,0 +1,12 @@
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.deps.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.csproj.AssemblyReference.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.GeneratedMSBuildEditorConfig.editorconfig
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.AssemblyInfoInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.AssemblyInfo.cs
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.csproj.CoreCompileInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\refint\PacktLibrary06.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\ref\PacktLibrary06.dll

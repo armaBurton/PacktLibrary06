@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PacktLibrary06\\PacktLibrary06.csproj": {}
+    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj": {}
   },
   "projects": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PacktLibrary06\\PacktLibrary06.csproj": {
+    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PacktLibrary06\\PacktLibrary06.csproj",
+        "projectUniqueName": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj",
         "projectName": "PacktLibrary06",
-        "projectPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PacktLibrary06\\PacktLibrary06.csproj",
+        "projectPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj",
         "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PacktLibrary06\\obj\\",
+        "outputPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
