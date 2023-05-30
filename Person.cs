@@ -1,6 +1,6 @@
 ﻿namespace Packt.shared;
 
-public class Person : Object{
+public class Person : object{
   //properties
   public string? Name { get; set; }
   public DateTime DateOfBirth { get; set; }
