@@ -10,3 +10,15 @@ D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\
 D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\refint\PacktLibrary06.dll
 D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.pdb
 D:\001 work\projects\c#\cs11dotnet7\Chapter06\classlib\PacktLibrary06\obj\Debug\net7.0\ref\PacktLibrary06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.deps.json
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\bin\Debug\net7.0\PacktLibrary06.pdb
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.csproj.AssemblyReference.cache
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.AssemblyInfoInputs.cache
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.AssemblyInfo.cs
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.csproj.CoreCompileInputs.cache
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\refint\PacktLibrary06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\PacktLibrary06.pdb
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PacktLibrary06\obj\Debug\net7.0\ref\PacktLibrary06.dll

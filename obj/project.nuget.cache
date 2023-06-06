@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkIuzj52A3870msUeuuCZF4bZjeAIv2ih8LuUSqdhKHgK/7jrvRWLrcWzTigEWXnHN7b2ekJRwRycUMkmnCXgA==",
+  "dgSpecHash": "KmEljnQscnZC3LbxMUUnn22aKwdWkDJm5URHXAhv6kYmjJHo+iWn72ixujYTph/QfKE5m0b+pEy1HUsRcYz8Qw==",
   "success": true,
-  "projectFilePath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj",
+  "projectFilePath": "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

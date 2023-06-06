@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj": {}
+    "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj": {}
   },
   "projects": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj": {
+    "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj",
+        "projectUniqueName": "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj",
         "projectName": "PacktLibrary06",
-        "projectPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\PacktLibrary06.csproj",
-        "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\classlib\\PacktLibrary06\\obj\\",
+        "projectPath": "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj",
+        "packagesPath": "C:\\Users\\Arma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Arma\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
