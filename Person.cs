@@ -1,4 +1,4 @@
-﻿namespace Packt.shared;
+﻿namespace Packt.Shared;
 
 public class Person : object{
   //properties
