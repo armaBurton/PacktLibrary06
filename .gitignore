@@ -1,5 +1,4 @@
-PacktLibrary06.dll
-PacktLibrary06.pdb
-
+*.dll
+*.pdb
 *.cache
 *.editorconfig

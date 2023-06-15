@@ -17,7 +17,7 @@ public class Person : object{
   public int AngerLevel;
 
   //method
-  public void poke(){
+  public void Poke(){
     AngerLevel++;
     if (AngerLevel >= 3){
       //if something is listening
