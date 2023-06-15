@@ -4,7 +4,7 @@ public class PersonComparer : IComparer<Person?>{
     public int Compare(Person? x, Person? y){
         int position;
         if((x is not null) && (y is not null)){
-          if((x is not null) && (y is not null)){
+          if((x.Name is not null) && (y.Name is not null)){
             //both values are not null
 
             //...compare the Name Lengths...
@@ -24,7 +24,13 @@ public class PersonComparer : IComparer<Person?>{
           } else {
             position = 0;  //x Person and y Person are at the same position
           }
-          return position;
+        } else if ((x is not null) && (y is null)){
+            position = -1;
+        } else if ((x is null) && (y is not null)){
+            position = 1;
+        } else {
+            position = 0;
         }
+        return position;
     }
 }
