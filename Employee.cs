@@ -4,7 +4,7 @@ public class Employee : Person{
     public string? EmployeeCode { get; set; }
     public DateTime HireDate { get; set; }
 
-    public void WriteToConsole(){
+    public new void WriteToConsole(){
         WriteLine(
             format:
                 "{0} was born on {1:dd/MM/yy} and hired on {2:dd/MM/yy}",
